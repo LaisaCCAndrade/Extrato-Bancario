@@ -10,7 +10,7 @@
 
 - [Sobre](#sobre)
 - [Como Usar](#como-usar)
-- [Contribuição](#contribuindo)
+- [Contribuição](#contribuicao)
 
 ---
 
