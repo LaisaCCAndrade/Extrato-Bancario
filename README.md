@@ -53,6 +53,6 @@ Siga estas etapas para experimentar o emocionante mundo das finanças em Java:
 
 Código para fins de aprendizado
 
-## 🤝 Contribuição
+## Contribuição
 
 - **Laisa Andrade** - [Github](https://github.com/LaisaCCAndrade)
