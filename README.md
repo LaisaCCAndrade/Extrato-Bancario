@@ -10,9 +10,7 @@
 
 - [Sobre](#sobre)
 - [Como Usar](#como-usar)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
-- [Contato](#contato)
+- [Contribuição](#contribuindo)
 
 ---
 
